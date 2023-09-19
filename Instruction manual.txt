@@ -1,0 +1,16 @@
+1、You need to use your Android phone to complete the firmware update.
+
+
+2、First of all, install "Firmware Update APP" on your Android phone. Place the "Firmware files".dat file in the Android phone, you need to remember the path of the .dat file.
+
+
+3、Connect the Android phone with Bluetooth remote control.
+
+
+4、Open the installed APP, click "Download Firmware Upgrade" in Step1, select "Local File Management", and find the "Firmware files".dat file placed in Step2. "
+
+
+5. Click "Select Device & Start Upgrade" in Step3, select the Bluetooth remote control device that has been paired.
+
+
+6、Wait for the firmware upgrade to finish.
