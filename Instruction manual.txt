@@ -1,16 +1,33 @@
-1、You need to use your Android phone to complete the firmware update.
+This guide details how to update the firmware on a G20S Pro Bluetooth (G20SProBT) remote when the OK button is malfunctioning.
+
+Before you begin, you'll need:
+
+    An Android phone
+
+Here's how to perform the update:
+
+    Download the files: You'll need two files: an update application (.apk) and a firmware data file (.dat).
+
+    Prepare the files:
+        Create a folder named "G20BTSPLUS" on your phone's internal storage.
+        Download the .dat file. It might be saved as a .txt file by default. Rename it back to .dat (original filename was HB9265_G20BTSPRO_OTA_V1.2.4_APP_1.2.2981.0207_BCD4BF72.dat if necessary, did not test)
+
+    Pair the remote with your phone:
+        Go to your phone's Settings app.
+        Navigate to Bluetooth and select "Add Device."
+        On the remote, press and hold the OK and Return buttons simultaneously for 3 sesconds. The device should appear on your phone's list.
+        Note: The remote might not stay permanently connected. If you can't use the navigation buttons or the cursor appears instead, you might need to try with a different phone.
+
+    Install the downloaded application (.apk) on your phone. WARNING: it comes from a unknown source. Use on your own risk.
+
+    Run the application:
+        Tap the upper button in the app.
+        In the menu that appears, choose the first option.
+        Browse and select the downloaded .dat file you placed in the "G20BTSPLUS" folder.
+
+    Begin the update:
+        Tap the lower button in the app.
+        Select "G20SPro" from the options.
+        The update process should now begin.
 
 
-2、First of all, install "Firmware Update APP" on your Android phone. Place the "Firmware files".dat file in the Android phone, you need to remember the path of the .dat file.
-
-
-3、Connect the Android phone with Bluetooth remote control.
-
-
-4、Open the installed APP, click "Download Firmware Upgrade" in Step1, select "Local File Management", and find the "Firmware files".dat file placed in Step2. "
-
-
-5. Click "Select Device & Start Upgrade" in Step3, select the Bluetooth remote control device that has been paired.
-
-
-6、Wait for the firmware upgrade to finish.
