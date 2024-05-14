@@ -1,4 +1,4 @@
-This guide details how to update the firmware on a G20S Pro Bluetooth (G20SProBT) remote when the OK button is malfunctioning.
+This guide details how to update the firmware on a G20S Pro Bluetooth (G20SProBT) remote when the OK button is malfunctioning. 
 
 Before you begin, you'll need:
 
@@ -10,7 +10,7 @@ Here's how to perform the update:
 
     Prepare the files:
         Create a folder named "G20BTSPLUS" on your phone's internal storage.
-        Download the .dat file. It might be saved as a .txt file by default. Rename it back to .dat (original filename was HB9265_G20BTSPRO_OTA_V1.2.4_APP_1.2.2981.0207_BCD4BF72.dat if necessary, did not test)
+        Download the .dat file. It might be saved as a .txt file by default. Rename it back to .dat (original filename was HB9265_G20BTSPRO_OTA_V1.2.4_APP_1.2.2981.0207_BCD4BF72.dat if necessary, did not test with a short name)
 
     Pair the remote with your phone:
         Go to your phone's Settings app.
@@ -20,7 +20,7 @@ Here's how to perform the update:
 
     Install the downloaded application (.apk) on your phone. WARNING: it comes from a unknown source. Use on your own risk.
 
-    Run the application:
+    Run the application (the app is in Chinese):
         Tap the upper button in the app.
         In the menu that appears, choose the first option.
         Browse and select the downloaded .dat file you placed in the "G20BTSPLUS" folder.
